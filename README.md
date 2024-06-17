@@ -1,4 +1,3 @@
-```markdown
 # Repositório de Estudo de Python 3
 
 Este repositório contém recursos e guias para o estudo da linguagem Python 3, estruturados do básico ao avançado, baseados nos livros "O Guia do Mochileiro Python" e "Web Scraping com Python".
@@ -67,4 +66,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias na es
 ## Licença
 
 Este repositório está licenciado sob a [Licença MIT](LICENSE).
-```
